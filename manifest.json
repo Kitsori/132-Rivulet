@@ -1,0 +1,12 @@
+{
+    "name": "132_Rivulet",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Kitsori/132-Rivulet",
+    "description": "Adds a brand new early/mid-game vanilla-like moon to the game!",
+    "dependencies": [
+        "IAmBatby-LethalLevelLoader-1.4.11",
+        "Evaisa-FixPluginTypesSerialization-1.1.2",
+        "BepInEx-BepInExPack-5.4.2100",
+        "MaxWasUnavailable-LethalModDataLib-1.2.2"
+    ]
+}
